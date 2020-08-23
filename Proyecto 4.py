@@ -42,5 +42,3 @@ print('Cantidad de seis: ', s)
 print('Cantidad de sietes: ', t)
 print('Cantidad de ochos: ', u)
 print('Cantidad de nueves: ', v)
-
-'mina'.count()
